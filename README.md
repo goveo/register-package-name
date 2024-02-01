@@ -1,3 +1,13 @@
 # register-package-name
 
-## Register package name in npm registry
+Register blank npm package with given name.
+
+## Usage
+
+Use with `npx`:
+
+```sh
+npx register-package-name <package-name>
+```
+
+Package version will set to `0.0.0-dev`
