@@ -1,0 +1,13 @@
+{
+  "name": "register-package-name",
+  "version": "0.0.0-dev",
+  "description": "",
+  "private": false,
+  "scripts": {
+    "bin": "node ./src/index.cjs"
+  },
+  "bin": "src/index.cjs",
+  "dependencies": {
+    "commander": "^11.1.0"
+  }
+}
