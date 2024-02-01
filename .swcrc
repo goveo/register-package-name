@@ -1,0 +1,8 @@
+{
+  "$schema": "https://json.schemastore.org/swcrc",
+  "isModule": false,
+  "env": {
+    "mode": "usage",
+    "coreJs": "3.17"
+  }
+}
