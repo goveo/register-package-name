@@ -10,4 +10,4 @@ Use with `npx`:
 npx register-package-name <package-name>
 ```
 
-Package version will set to `0.0.0-dev`
+Package version will be set to `0.0.0-dev`

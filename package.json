@@ -1,7 +1,19 @@
 {
   "name": "register-package-name",
   "version": "0.1.0",
-  "description": "",
+  "description": "Register blank npm package with given name.",
+  "keywords": [
+    "npm",
+    "register",
+    "package",
+    "name",
+    "publish",
+    "register-package",
+    "blank",
+    "empty"
+  ],
+  "author": "Yurii Brusentsov <yuriybrusentsov@gmail.com>",
+  "license": "MIT",
   "private": false,
   "scripts": {
     "build": "tsc && swc ./dist/index.js -o ./dist/index.js",
@@ -20,5 +32,6 @@
     "prettier": "3.2.4",
     "ts-node": "^10.9.2",
     "typescript": "^5.3.3"
-  }
+  },
+  "homepage": "https://github.com/goveo/register-package-name#readme"
 }
